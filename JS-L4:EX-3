@@ -1,10 +1,7 @@
-// Отримуємо введені дані від користувача за допомогою prompt()
 const userInput = prompt("Введіть дані:");
 
-// Визначаємо тип введених даних
 const dataType = typeof userInput;
 
-// Виводимо результат
 if (dataType === "number") {
   console.log("Ви ввели число.");
 } else if (dataType === "string") {
