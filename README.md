@@ -4,5 +4,4 @@
 
 **__Контактні дані__**   
 **Gmail:** k1st1ar3em@gmail.com   
-**PN:** +38(068)401-54-51   
 **Slack:** https://intita.slack.com/team/U04QQJYQETC   
